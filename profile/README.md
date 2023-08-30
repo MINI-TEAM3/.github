@@ -1,6 +1,6 @@
 ## 🏥 닥터캘 (Dr.Cal)
 
-<img width="300" align="right" src="https://github.com/MINI-TEAM3/.github/assets/116873887/db3ce9fb-9db4-4bfe-ad1e-a3d1a6ab042b" />
+<img width="250" align="right" src="https://github.com/MINI-TEAM3/.github/assets/116873887/db3ce9fb-9db4-4bfe-ad1e-a3d1a6ab042b" />
 
 *대학병원 의사들을 위한 쉽고 빠른 연차∙당직 관리 서비스*
 
